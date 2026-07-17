@@ -4,5 +4,5 @@
 */
 window.LIFE_QUEST_SITE = {
   version: "0.19.0",
-  downloadUrl: "https://github.com/jn18005/career-quest-client-releases/releases/latest"
+  downloadUrl: "https://github.com/jn18005/career-quest-client-releases/releases/latest/download/LifeQuest-Setup.exe"
 };
